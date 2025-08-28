@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wishlist-app/static/css/main.94277221.css",
+    "main.js": "/wishlist-app/static/js/main.59e30423.js",
+    "static/js/453.d6e7416f.chunk.js": "/wishlist-app/static/js/453.d6e7416f.chunk.js",
+    "index.html": "/wishlist-app/index.html",
+    "main.94277221.css.map": "/wishlist-app/static/css/main.94277221.css.map",
+    "main.59e30423.js.map": "/wishlist-app/static/js/main.59e30423.js.map",
+    "453.d6e7416f.chunk.js.map": "/wishlist-app/static/js/453.d6e7416f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94277221.css",
+    "static/js/main.59e30423.js"
+  ]
+}
